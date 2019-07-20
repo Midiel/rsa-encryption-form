@@ -15,8 +15,8 @@ CREATE TABLE encryption (             <br>
 	message VARCHAR(250),               <br>
 	PRIMARY KEY (id));                  <br><br>
   
-  <h5>2) Modify the connection to the</h5><br>
-  - Open <b>config/connect.inc.php</b> and modify the connection sessting to match that of your database.<br><br>
+  <h5>2) Modify the connection to your database</h5><br>
+  	- Open <b>config/connect.inc.php</b> and modify the connection sessting to match that of your database.<br><br>
   
   <h5>3) Host the application and local database using XAMPP or any other tool</h5>
   
